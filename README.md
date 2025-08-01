@@ -10,7 +10,7 @@ TODO: Implement more platforms in the future
 
 # Usage 
 
-'''c++
+```c++
 
 #include "Log.h"
 
@@ -61,5 +61,5 @@ FS_TRACE_ << "This is a trace2 message!";
 
 }
 
-'''
+```
 ---
