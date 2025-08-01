@@ -1,4 +1,4 @@
-# FSLog
+# FSLogger
 
 Simple logging system implemented in c++
 
@@ -12,7 +12,7 @@ TODO: Implement more platforms in the future
 
 ```c++
 
-#include "Log.h"
+#include "fslog.h"
 
 using namespace FS;
 

@@ -44,5 +44,8 @@
     <ClInclude Include="src\Console\ConsoleOutput.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="fslog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

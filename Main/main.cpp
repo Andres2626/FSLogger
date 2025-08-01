@@ -1,6 +1,6 @@
 #include <iostream>
 #include <stdlib.h>
-#include "src/Log.h"
+#include "fslog.h"
 
 using namespace FS;
 

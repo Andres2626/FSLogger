@@ -145,6 +145,7 @@
     <ClCompile Include="src\LogMessage.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="fslog.h" />
     <ClInclude Include="src\Console\ConsoleOutput.h" />
     <ClInclude Include="src\Log.h" />
     <ClInclude Include="src\Logger.h" />

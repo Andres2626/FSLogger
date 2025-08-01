@@ -1,9 +1,9 @@
 #pragma once
-#include "LogLevel.h"
-#include "Logger.h"
-#include "LogMessage.h"
+#include "Src/LogLevel.h"
+#include "Src/Logger.h"
+#include "Src/LogMessage.h"
 
-#include "Console/ConsoleOutput.h"
+#include "Src/Console/ConsoleOutput.h"
 
 #define FS_LOG(x) FS::LogMessage(x, RELPATH, __LINE__, __FUNCTION__)
 #define FS_LOG_(x) FS::LogMessage(x, __FILE__, __LINE__, __FUNCTION__)
