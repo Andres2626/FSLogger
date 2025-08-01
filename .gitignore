@@ -1,0 +1,18 @@
+# exclude files
+*.o
+*.stackdump
+%.build
+%.ld
+%.obj
+%.img
+%.dll
+%.lib
+%.exp
+%.pdb
+%.log
+
+Debug/
+Release/
+Main/Debug/
+Main/Release/
+.vs/
