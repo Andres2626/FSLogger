@@ -11,8 +11,4 @@
 %.pdb
 %.log
 
-Debug/
-Release/
-Main/Debug/
-Main/Release/
-.vs/
+Build/
